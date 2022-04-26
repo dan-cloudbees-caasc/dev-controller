@@ -1,0 +1,6 @@
+apiVersion: "1"
+version: "1"
+id: "dan-cloudbees-caasc-dev-controller"
+description: "CloudBees CI configuration bundle for the dan-cloudbees-caasc dev-controller Controller"
+availabilityPattern: "cloudbees-ci-casc-workshop/dan-cloudbees-caasc/dev-controller"
+parent: "base"
